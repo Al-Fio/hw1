@@ -1,0 +1,92 @@
+#Catalogo1 {
+    background-image: url(//localhost/hw1/Immagini/Home/ecatalogo001.webp);
+}
+
+#Catalogo2 {
+    background-image: url(//localhost/hw1/Immagini/Home/ecatalogo002.webp);
+}
+
+.testoShop {
+    width: 1000px;
+    font-size: 2rem;
+    margin-left: 40px;
+}
+/*********************************************/
+
+#AbbigliamentoTiro .divImgShop, #AccessoriTiro .divImgShop, #Strozzatori .divImgShop{
+    width: 100%;
+}
+
+/* Calci */
+#CalciTiroBerettaTSK {
+    background-image: url(//localhost/hw1/Immagini/CalciTiroBerettaTSK.webp);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    margin-top: 70px;
+}
+/*********************************************/
+
+/* EquipaggiamentoTiro */
+#EquipaggiamentoTiro {
+    background-image: url(//localhost/hw1/Immagini/EquipaggiamentoTiro.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 800px;
+    color: white;
+    margin-top: 70px;
+}
+
+#EquipaggiamentoTiro div {
+    margin-left: 5%;
+}
+
+#EquipaggiamentoTiro a {
+    font-size: 0.722rem;
+    width: 150px;
+    height: 52px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0%;
+    margin: 0px 0px 40px 5%;
+}
+/*********************************************/
+
+/* AbbigliamentoCaccia banner*/ 
+#AbbigliamentoCaccia {
+    background-image: url(//localhost/hw1/Immagini/AbbigliamentoCaccia.webp);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+/*********************************************/
+
+
+/* MerchandiseUfficiale banner*/
+#MerchandiseUfficiale {
+    background-image: url(//localhost/hw1/Immagini/MerchandiseUfficiale.webp);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+/*********************************************/
+
+/* StrozzatoriBerettaPromo */
+#StrozzatoriBerettaPromo {
+    width: 100%;
+}
+
+#StrozzatoriBerettaPromo div.center {
+    width: 50%;
+    margin-left: 20px;
+}
+
+#StrozzatoriBerettaPromo img {
+    width: 100%;
+}
+/*********************************************/
+
+

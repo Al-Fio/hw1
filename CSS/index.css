@@ -1,0 +1,190 @@
+#Catalogo1 {
+    background-image: url(//localhost/hw1/Immagini/Home/catalogo001.jpg);
+}
+
+#Catalogo2 {
+    background-image: url(//localhost/hw1/Immagini/Home/catalogo002.jpg);
+}
+
+#Catalogo3 {
+    background-image: url(//localhost/hw1/Immagini/Home/catalogo003.jpeg);
+}
+
+#Catalogo4 {
+    background-image: url(//localhost/hw1/Immagini/Home/catalogo004.webp);
+}
+
+/* Promo Digitale*/
+#PromoDigitale {
+    text-align: center;
+}
+
+#PromoDigitale div.center {
+    margin-left: 5%;
+}
+
+img.promo {
+    width: 100%;
+}
+/*********************************************/
+
+/* Win the fight */
+#WinFight {
+    background-image: url(//localhost/hw1/Immagini/teasertattico.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    margin-top: 70px;
+}
+/*********************************************/
+
+/* Serie 90 - vedere shop abbigliamento */
+/*********************************************/
+
+/* 92X Performance */
+#Performance92X {
+    text-align: center;
+}
+
+#Performance92X p{
+    color: #202020;
+}
+
+#Performance92X h2 {
+    margin-left: 60px;
+}
+/*********************************************/
+
+/* Steelium */
+#Steelium {
+    background-image: url(//localhost/hw1/Immagini/steelium.webp);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+/*********************************************/
+
+/* DT11 - vedere shop abbigliamento */
+/*********************************************/
+
+/* Beretta Service System */
+#ServiceSystem {
+    background-image: url(//localhost/hw1/Immagini/berettaservicesystem.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 800px;
+    color: white;
+    margin-top: 70px;
+}
+
+#ServiceSystem div {
+    margin-left: 5%;
+}
+
+#ServiceSystem a {
+    font-size: 0.722rem;
+    width: 150px;
+    height: 52px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0%;
+    margin: 0px 0px 40px 5%;
+}
+/*********************************************/
+
+/* Ultime Notizie Beretta */
+#UltimeNotizie {
+    margin-left: 60px;
+    position: relative;
+    width: 80%;
+}
+
+#UltimeNotizie img {
+    width: 500px;
+}
+
+#Promozioni {
+    text-align: center;
+    font-size: 0.555rem;
+    padding: 4px 10px;
+    color: #ffffff;
+    position: absolute;
+    top: 120px;
+    left: 420px;
+    background-color: #F06123;
+    border-radius: 10px;
+}
+
+
+#News {
+    width: 100%;
+    margin-top: 40px;
+}
+
+#News div {
+    display: flex;
+    flex-direction: column;
+    max-width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    /* justify-content: space-between; */
+
+}
+
+#News img {
+    max-width: 100%;
+}
+ 
+#News a {
+    color: #152f44;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+/*********************************************/
+
+/* Podcast */
+#Podcast {
+    margin: 40px 0px 0px 30px;
+    padding: 0px;
+    width: 95%;
+}
+
+#EpisodesView .episodi {
+    margin: 10px;
+    border: 1px solid slategray;
+    padding: 5px;
+    max-width: 150px;
+    display: flex;
+    flex-direction: column;
+    color: #152f44;
+}
+
+#EpisodesView img {
+    max-width: 100%;
+}
+
+#ButtonEpisodi {
+    background-color: #152f44;
+    padding: 15px;
+    font-size: 1rem;
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+#Podcast a {
+    color: #152f44;
+}
+
+#Podcast a.linkBlue {
+    color: #ffffff;
+}
+/*********************************************/
+
+
+

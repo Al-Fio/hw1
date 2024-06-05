@@ -1,0 +1,107 @@
+body {
+    width: 100%;
+    margin: 20px 0px 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.noScroll {
+    overflow: hidden;
+}
+
+.testo {
+    font-size: 14px;
+    margin: 0%;
+}
+
+.logo img{
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+.errore {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #152f44;
+}
+
+.errore img {
+    width: 300px;
+    margin: 30px;
+}
+
+.errore .log {
+    margin: 30px;
+    background-color: #152f44;
+    color: white;
+    width: 270px;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.log a {
+    color: white;
+    text-decoration: none;
+}
+
+#ContenitoreProdotti {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.prodotti {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 40px;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.divRight {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divLeft {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.divLeft img {
+    width: 70px;
+    font-size: 18px;
+
+}
+
+.button {
+    background-color: #152f44;
+    width: 150px;
+    height: 60px;
+    border-radius: 7px;
+    color: white;
+}
+
+.vuoto {
+    margin-top: 60px;
+    color:#152f44;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 60%;
+}
